@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niklas 
 - 👀 I’m interested in Games and Code (Who would have guessed)
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently studying Software Engineering 
 
 
 <!---
