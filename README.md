@@ -28,7 +28,7 @@
   <img width="400" src="" />
   <img width="400" src="" />
  <a href="https://github.com/">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
  </a>
  <a href="https://github.com/YuriDevAT/smart-shopping-list">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
