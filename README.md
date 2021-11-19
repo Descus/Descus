@@ -28,19 +28,19 @@
     <div>
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
         <a href="https://github.com/Descus/Fabeled-Carnage">
-            <img align="" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
+            <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
         </a>
     </div>
     <div>
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
         <a href="https://github.com/Descus/MonsterWG">
-            <img align="" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
+            <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
         </a>
     </div>
     <div>
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/Sunsmashers.png" />
         <a href="https://github.com/Jammers-Inc/SunSmashers">
-            <img align="" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
+            <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
         </a>
     <div>  
 </p>
