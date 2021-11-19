@@ -39,6 +39,7 @@
         <a href="https://github.com/Jammers-Inc/SunSmashers">
             <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
         </a>
+        <div width="400"></div>
     </p>
 </p>
 <h2 align="center">About me🙋‍♂️</h2>
