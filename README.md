@@ -38,10 +38,12 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
 </a>
 </p>
-<!---
-Descus/Descus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m Niklas 
-- 👀 I’m interested in Games and Code (Who would have guessed)
-- 🌱 I’m currently studying Software Engineering 
---->
+<h2 align="center">About me🙋‍♂️</h2>
+<b align="center">
+    From: Germany
+    Pronouns: He/Him
+    
+</b>
+<b align="left" >
+    
+</b>
