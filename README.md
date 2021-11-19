@@ -34,12 +34,8 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
  </a>
   <img width="400" src="" />
-  <img width="400" src="" />
   <a href="https://github.com/Jammers-Inc/SunSmashers">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
 </p>
 <!---
