@@ -34,8 +34,6 @@
         <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
     </a>
     <img width="400" src="https://github.com/Descus/Descus/blob/main/Sunsmashers.png" />
-    <div width="400"></div>
-    <div width="400"></div>
     <a href="https://github.com/Jammers-Inc/SunSmashers">
         <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
     </a>
