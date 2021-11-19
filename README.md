@@ -26,7 +26,7 @@
 
 <p align="center">
   <img width="400" src="" />
-  <img width="400" src="" />
+  <img width="400" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
  <a href="https://github.com/">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
  </a>
