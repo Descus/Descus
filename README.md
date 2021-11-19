@@ -25,24 +25,24 @@
 <br />
 
 <p align="center">
-    <div>
+    <div align="center">
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
         <a href="https://github.com/Descus/Fabeled-Carnage">
             <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
         </a>
     </div>
-    <div>
+    <div align="center">
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
         <a href="https://github.com/Descus/MonsterWG">
             <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
         </a>
     </div>
-    <div>
+    <div align="center">
         <img width="400" height="200" src="https://github.com/Descus/Descus/blob/main/Sunsmashers.png" />
         <a href="https://github.com/Jammers-Inc/SunSmashers">
             <img align="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
         </a>
-    <div>  
+    </div>  
 </p>
 <h2 align="center">About me🙋‍♂️</h2>
 <b align="center">
