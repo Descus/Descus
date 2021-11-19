@@ -45,6 +45,7 @@
     Pronouns: He/Him <br>
     Speaking: German/English
 </b>
+<br>
     <b align="left" >
         I started as a Hobby Developer for Mods, which never worked out 😬, so I started Studying Software Engineering which i sadly didn't get to Finish.<br>
         So I started Learning anything about Games I could, attended a Class for Game Design and now Software Engineering again.<br>
