@@ -27,12 +27,21 @@
 <p align="center">
   <img width="400" src="" />
   <img width="400" src="https://github.com/Descus/Descus/blob/main/MonsterWG.jpg?raw=true" />
- <a href="https://github.com/">
+ <a href="https://github.com/Descus/Fabeled-Carnage">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=descus&repo=fabeled-carnage&theme=tokyonight" />
  </a>
- <a href="https://github.com/">
+ <a href="https://github.com/Descus/MonsterWG">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Descus&repo=MonsterWG&theme=tokyonight" />
  </a>
+  <img width="400" src="" />
+  <img width="400" src="" />
+  <a href="https://github.com/Jammers-Inc/SunSmashers">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jammers-Inc&repo=SunSmashers&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+</a>
+</p>
 <!---
 Descus/Descus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
