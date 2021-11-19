@@ -52,5 +52,5 @@
     </b>
 <h3 align="center">Tools & Languages🔧<h3>
     <b align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
     </b>
