@@ -59,5 +59,5 @@
    </b> --->
 <h3 align="center">Tools & Languages🔧<h3>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,cs,arduino,bash,cmake,discord,dotnet,flask,github,idea,java,latex,linux,lua,md,postgres,powershell,py,regex,stackoverflow,unity,unreal&theme=dark&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,cs,arduino,bash,cmake,discord,flask,github,idea,java,latex,linux,lua,md,postgres,powershell,py,regex,stackoverflow,unity,unreal&theme=dark&perline=6" />
     </p>
