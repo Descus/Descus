@@ -47,7 +47,6 @@
 <h2 align="center">About me🙋‍♂️</h2>
 <b align="center">
     From: Germany <br>
-    Pronouns: He/Him <br>
     Speaking: German/English
 </b>
 <br><br>
