@@ -16,7 +16,7 @@
 </p>
 <br />
 <b align="left" >
-    Aspiring Gameplay/Tools Programmer/Designer with about 2 Years of Experience looking for a Chance to Proof myself. <br>
+    Aspiring Gameplay/Tools Programmer/Designer with about 4 Years of Experience looking for a Chance to Proof myself. <br>
     Currently Studying Software Engineering in Frankfurt a.M. Germany.
 </b>
 <br />
