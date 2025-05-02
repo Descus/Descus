@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/niklasschmiedel/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/176050517154332672)](https://dev.discordprofiles.me/openspotify/176050517154332672)
 <br />
 <b align="left" >
     Aspiring Gameplay/Tools Programmer/Designer with about 4 Years of Experience looking for a Chance to Proof myself. <br>
