@@ -11,7 +11,7 @@
 <a href="https://dev.discordprofiles.me/openspotify/176050517154332672"><img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/176050517154332672"/></a>
 <br />
 <b align="left" >
-    Aspiring Gameplay/Tools Programmer/Designer with about 4 Years of Experience looking for a Chance to Proof myself. <br>
+    Aspiring Gameplay/Tools Programmer/Designer with about 6 Years of Experience looking for a Chance to Proof myself. <br>
     Currently Studying Software Engineering in Frankfurt a.M. Germany.
 </b>
 <br />
