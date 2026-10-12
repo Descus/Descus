@@ -8,7 +8,6 @@
     <a href="https://www.linkedin.com/in/niklasschmiedel/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
-<a href="https://dev.discordprofiles.me/openspotify/176050517154332672"><img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/176050517154332672"/></a>
 <br />
 <b align="left" >
     Finished my Software Engineering studies in Frankfurt a.M. Germany 🥳.
